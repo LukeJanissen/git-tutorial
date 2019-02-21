@@ -1,0 +1,23 @@
+{
+  "name": "luke",
+  "version": "1.0.0",
+  "description": "Test tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "hallo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeJanissen/git-tutorial.git"
+  },
+  "keywords": [
+    "git",
+    "git"
+  ],
+  "author": "luke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeJanissen/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/LukeJanissen/git-tutorial#readme"
+}
